@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hi! 👋
+
+![me](https://i.imgur.com/Zl5Uxr2.jpg)
+
+Let's make the world a better place for everyone.
+
+Freshly graduated from Polytech Lyon to become a software engineer!
+
+Currently looking for a job. Do you think I would fit in your team? ✨
+
+I'd love to help on an open-source project!
+
+Pronouns: he/him
+
+
+-------------------
 
 <!--
 **AntoineGanne/AntoineGanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
