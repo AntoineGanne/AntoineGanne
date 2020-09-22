@@ -16,13 +16,24 @@ Pronouns: he/him
 # Projects I worked on
 ## Back-end
 
+I have strong skills in back-end development.
+Most recent experience are python APis using Flask (not public) and I did enough JEE APIs to be sick of this tech 👀
 
 ## Full-Stack
-Playroom
+Playroom is an ambitious school prpject aimed to make a framework of multiplayer web games in rooms ( you only need the room code to join, like Jackbox Party packs).
+We made the front with Vue.js and the back with Node.js. 
+We managed to have a fuctionnal pictionnary!
 
-## Data
+
+## Data and Machine Learning
+I'm very interested in Data Engineering
+
+Data extraction and cleaning using Talend.
 
 
+Various experiences of Machine Learning with Scikit-Learn
+
+( also recommend reading Weapons of Math Destruction <3 )
 
 ## Research in Virtual reality and Human-Robot Interatctions
 using Unity
