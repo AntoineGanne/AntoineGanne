@@ -12,6 +12,29 @@ I'd love to help on an open-source project!
 
 Pronouns: he/him
 
+------------------
+# Projects I worked on
+## Back-end
+
+
+## Full-Stack
+Playroom
+
+## Data
+
+
+
+## Research in Virtual reality and Human-Robot Interatctions
+using Unity
+Sigverse
+
+## Continuous Integration ( CI )
+
+## Mathematics and Graph Theory 
+
+## Creative coding
+
+p5
 
 -------------------
 
