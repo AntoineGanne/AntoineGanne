@@ -1,5 +1,3 @@
-## Hi! 👋
-
 ![me](https://i.imgur.com/Zl5Uxr2.jpg)
 
 Let's make the world a better place for everyone.
@@ -35,17 +33,25 @@ Various experiences of Machine Learning with Scikit-Learn
 
 ( also recommend reading Weapons of Math Destruction <3 )
 
-## Research in Virtual reality and Human-Robot Interatctions
-using Unity
-Sigverse
+## Unity
+Learned Unity for my internship in Tokyo where I worked on Sigverse, a framework for Human-Robot Interaction experiences in Virtual Reality.
+
+I'm happy about my Multi-Agent project where agents are crowded in a grid and each agent try to go to a specific tile. In this case Unity was so helpful to deal with multi-threading.
+
+ 
+## C#
 
 ## Continuous Integration ( CI )
+Had school and work experience with Continuous Integration using Gitlab CI and Docker 🐳. 
+Proud of [this project](https://gitlab.com/Ton_Ami/api_cloud_5a_info): a REST API where I was in charge of the autonomous deployment on a cloud service (CleverCloud) 
 
 ## Mathematics and Graph Theory 
 
 ## Creative coding
+I enjoy creating visual animations using code! 
 
-p5
+I greatly appreciate the Processing foundation strive for inclusiveness in the tech industry. 
+I extensively use P5 ([blendmode](https://github.com/AntoineGanne/Having-fun-with-p5js-s-blendMode-), [circle](https://github.com/AntoineGanne/circle_and_lines) ) and write templates for p5 sketches: [gif_making](https://github.com/AntoineGanne/Empty_Gif_Making_Sketch_for_p5.js), [video_recording](https://github.com/AntoineGanne/Template_p5_video_recording)
 
 -------------------
 
