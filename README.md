@@ -58,7 +58,9 @@ I extensively use P5 ([blendmode](https://github.com/AntoineGanne/Having-fun-wit
 
 ## Android
 
-[Android project](https://github.com/polytechlyon-5a-2019-android/polytechlyon-5a-2019-android-projet-AntoineGanne)
+android [project](https://github.com/polytechlyon-5a-2019-android/polytechlyon-5a-2019-android-projet-AntoineGanne)
+with login, API calls and cats 🐱
+
 -------------------
 
 <!--
