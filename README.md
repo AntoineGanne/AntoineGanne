@@ -36,13 +36,16 @@ Various experiences of Machine Learning with Scikit-Learn
 ## Unity
 Learned Unity for my internship in Tokyo where I worked on Sigverse, a framework for Human-Robot Interaction experiences in Virtual Reality.
 
-I'm happy about my Multi-Agent project where agents are crowded in a grid and each agent try to go to a specific tile. In this case Unity was so helpful to deal with multi-threading.
+I'm happy about my [Multi-Agent project](https://github.com/AntoineGanne/-5A-INFO-SMA-project) where agents are crowded in a grid and each agent try to go to a specific tile. In this case Unity was so helpful to deal with multi-threading.
 
  
 ## C#
 
+Before working on Unity, I made a few school games on Unity like a [connect-4](https://github.com/AntoineGanne/Le_Puissance4_Par_Antoine_et_Lea)
+
 ## Continuous Integration ( CI )
 Had school and work experience with Continuous Integration using Gitlab CI and Docker 🐳. 
+
 Proud of [this project](https://gitlab.com/Ton_Ami/api_cloud_5a_info): a REST API where I was in charge of the autonomous deployment on a cloud service (CleverCloud) 
 
 ## Mathematics and Graph Theory 
@@ -53,6 +56,9 @@ I enjoy creating visual animations using code!
 I greatly appreciate the Processing foundation strive for inclusiveness in the tech industry. 
 I extensively use P5 ([blendmode](https://github.com/AntoineGanne/Having-fun-with-p5js-s-blendMode-), [circle](https://github.com/AntoineGanne/circle_and_lines) ) and write templates for p5 sketches: [gif_making](https://github.com/AntoineGanne/Empty_Gif_Making_Sketch_for_p5.js), [video_recording](https://github.com/AntoineGanne/Template_p5_video_recording)
 
+## Android
+
+[Android project](https://github.com/polytechlyon-5a-2019-android/polytechlyon-5a-2019-android-projet-AntoineGanne)
 -------------------
 
 <!--
