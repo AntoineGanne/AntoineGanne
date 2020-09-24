@@ -46,7 +46,7 @@ I'm happy about my [Multi-Agent project](https://github.com/AntoineGanne/-5A-INF
  
 ## C#
 
-Before working on Unity, I made a few school games on Unity like a [connect-4](https://github.com/AntoineGanne/Le_Puissance4_Par_Antoine_et_Lea)
+Before working on Unity, I made a few school C# games like a [connect-4](https://github.com/AntoineGanne/Le_Puissance4_Par_Antoine_et_Lea)
 
 ## Continuous Integration ( CI )
 Had school and work experience with Continuous Integration using Gitlab CI and Docker 🐳. 
