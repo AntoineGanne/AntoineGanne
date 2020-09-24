@@ -2,7 +2,7 @@
 
 Let's make the world a better place for everyone.
 
-Freshly graduated from Polytech Lyon to become a software engineer!
+Freshly graduated from Polytech Lyon. I'm now a software engineer!
 
 Currently looking for a job. Do you think I would fit in your team? ✨
 
@@ -24,7 +24,9 @@ We managed to have a fuctionnal pictionnary!
 
 
 ## Data and Machine Learning
-I'm very interested in Data Engineering
+I'm very interested in Data Engineering because I enjoy thinking about the best ways to store information. 
+I master SQL and I built a database storing geographical data during my internship at Sogeti.
+
 
 Data extraction and cleaning using Talend.
 
@@ -56,10 +58,14 @@ I enjoy creating visual animations using code!
 I greatly appreciate the Processing foundation strive for inclusiveness in the tech industry. 
 I extensively use P5 ([blendmode](https://github.com/AntoineGanne/Having-fun-with-p5js-s-blendMode-), [circle](https://github.com/AntoineGanne/circle_and_lines) ) and write templates for p5 sketches: [gif_making](https://github.com/AntoineGanne/Empty_Gif_Making_Sketch_for_p5.js), [video_recording](https://github.com/AntoineGanne/Template_p5_video_recording)
 
+![creative gif](https://media2.giphy.com/media/0XHznQSB9ANKjiaAIK/giphy.gif)
+
+
 ## Android
 
 android [project](https://github.com/polytechlyon-5a-2019-android/polytechlyon-5a-2019-android-projet-AntoineGanne)
 with login, API calls and cats 🐱
+
 
 -------------------
 
