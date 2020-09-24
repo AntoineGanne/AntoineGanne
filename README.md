@@ -12,6 +12,8 @@ Pronouns: he/him
 
 ------------------
 # Projects I worked on
+![projects images](https://i.imgur.com/I5HGYZP.jpg)
+
 ## Back-end
 
 I have strong skills in back-end development.
@@ -27,9 +29,10 @@ We managed to have a fuctionnal pictionnary!
 I'm very interested in Data Engineering because I enjoy thinking about the best ways to store information. 
 I master SQL and I built a database storing geographical data during my internship at Sogeti.
 
+I worked on data extraction and cleaning (using Talend) on reported ufo sightings  (NUFORC database).
+Here's an exemple of the reported ufos' shapes 🛸
 
-Data extraction and cleaning using Talend.
-
+![figure shape of ufo](https://lh5.googleusercontent.com/ocDICWyszzFXEVc2M1meaIQElZR9o3tlNUAR4SM0wsZoDsTjSMSsF0oL7oWdN0ksrRx4SC0E-7ij-DCovGiLLdnEokxQS8y-6ZwNqTP9lsiIopA5e2wtkmEzR3f32AHTdcnF0hf4)
 
 Various experiences of Machine Learning with Scikit-Learn
 
