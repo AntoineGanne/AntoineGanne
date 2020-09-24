@@ -16,8 +16,8 @@ Pronouns: he/him
 
 ## Back-end
 
-I have strong skills in back-end development.
-Most recent experience are python APis using Flask (not public) and I did enough JEE APIs to be sick of this tech 👀
+I avquired  strong skills in back-end development by building APIs throughout school and internships.
+Myy most recent experience are python APis using Flask (not public) to apply Machine Learning models.
 
 ## Full-Stack
 Playroom is an ambitious school prpject aimed to make a framework of multiplayer web games in rooms ( you only need the room code to join, like Jackbox Party packs).
@@ -34,9 +34,9 @@ Here's an exemple of the reported ufos' shapes 🛸
 
 ![figure shape of ufo](https://lh5.googleusercontent.com/ocDICWyszzFXEVc2M1meaIQElZR9o3tlNUAR4SM0wsZoDsTjSMSsF0oL7oWdN0ksrRx4SC0E-7ij-DCovGiLLdnEokxQS8y-6ZwNqTP9lsiIopA5e2wtkmEzR3f32AHTdcnF0hf4)
 
-Various experiences of Machine Learning with Scikit-Learn
+Various experiences in Machine Learning with Scikit-Learn
 
-( also recommend reading Weapons of Math Destruction <3 )
+I highly recommend reading [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) by Cathy O'Neil
 
 ## Unity
 Learned Unity for my internship in Tokyo where I worked on Sigverse, a framework for Human-Robot Interaction experiences in Virtual Reality.
