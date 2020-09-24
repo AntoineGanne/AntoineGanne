@@ -1,4 +1,4 @@
-![me](https://i.imgur.com/Zl5Uxr2.jpg)
+![me](https://i.imgur.com/8HsfCAT.png)
 
 Let's make the world a better place for everyone.
 
