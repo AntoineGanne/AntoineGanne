@@ -22,17 +22,17 @@ I acquired  strong skills in back-end development by building APIs throughout sc
 My most recent experience are python APis using Flask (not public) to apply Machine Learning models.
 
 ## Full-Stack
-Playroom is an ambitious school prpject aimed to make a framework of multiplayer web games in rooms ( you only need the room code to join, like Jackbox Party packs).
+Playroom is an ambitious school project aimed to make a framework of multiplayer web games in rooms (you only need the room code to join, like Jackbox Party packs).
 We made the front with Vue.js and the back with Node.js. 
-We managed to have a fuctionnal pictionnary!
+We managed to have a functionnal pictionnary!
 
 
 ## Data and Machine Learning
 I'm very interested in Data Engineering because I enjoy thinking about the best ways to store information. 
 I master SQL and I built a database storing geographical data during my internship at Sogeti.
 
-I worked on data extraction and cleaning (using Talend) on reported ufo sightings  (NUFORC database).
-Here's an exemple of the reported ufos' shapes 🛸
+I worked on data extraction and cleaning (using Talend) on reported UFO sightings  (NUFORC database).
+Here's an example of the reported UFOs' shapes 🛸
 
 ![figure shape of ufo](https://lh5.googleusercontent.com/ocDICWyszzFXEVc2M1meaIQElZR9o3tlNUAR4SM0wsZoDsTjSMSsF0oL7oWdN0ksrRx4SC0E-7ij-DCovGiLLdnEokxQS8y-6ZwNqTP9lsiIopA5e2wtkmEzR3f32AHTdcnF0hf4)
 
