@@ -55,7 +55,8 @@ Had school and work experience with Continuous Integration using Gitlab CI and D
 
 Proud of [this project](https://gitlab.com/Ton_Ami/api_cloud_5a_info): a REST API where I was in charge of the autonomous deployment on a cloud service (CleverCloud) 
 
-## Mathematics and Graph Theory 
+## Mathematics and optimization
+I have a strong affinity for complexity analysis of different algorithms.  
 
 ## Creative coding
 I enjoy creating visual animations using code! 
