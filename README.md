@@ -56,7 +56,8 @@ Had school and work experience with Continuous Integration using Gitlab CI and D
 Proud of [this project](https://gitlab.com/Ton_Ami/api_cloud_5a_info): a REST API where I was in charge of the autonomous deployment on a cloud service (CleverCloud) 
 
 ## Mathematics and optimization
-I have a strong affinity for complexity analysis of different algorithms.  
+I have a strong affinity for complexity analysis of different algorithms. 
+Here is my [project of my discete optimization class](https://github.com/AntoineGanne/Optimisation-discrete) where I tested different algorithms about the quadratic assignment problem.
 
 ## Creative coding
 I enjoy creating visual animations using code! 
