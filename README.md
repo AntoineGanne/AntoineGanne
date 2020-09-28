@@ -25,7 +25,9 @@ My most recent experience are python APis using Flask (not public) to apply Mach
 Playroom is an ambitious school project aimed to make a framework of multiplayer web games in rooms (you only need the room code to join, like Jackbox Party packs).
 We made the front with Vue.js and the back with Node.js. 
 We managed to have a functionnal pictionnary!
+
 [back-end](https://github.com/Santa-Polytecha/playroom-server)
+
 [front-end](https://github.com/Santa-Polytecha/playroom-web)
 
 
@@ -53,9 +55,9 @@ I'm happy about my [Multi-Agent project](https://github.com/AntoineGanne/-5A-INF
 Before working on Unity, I made a few school C# games like a [connect-4](https://github.com/AntoineGanne/Le_Puissance4_Par_Antoine_et_Lea)
 
 ## Continuous Integration ( CI )
-Had school and work experience with Continuous Integration using Gitlab CI and Docker 🐳. 
+I had school and work experience with Continuous Integration using Gitlab CI and Docker 🐳. 
 
-Proud of [this project](https://gitlab.com/Ton_Ami/api_cloud_5a_info): a REST API where I was in charge of the autonomous deployment on a cloud service (CleverCloud) 
+I'm Proud of [this project](https://gitlab.com/Ton_Ami/api_cloud_5a_info): a REST API where I was in charge of the autonomous deployment on a cloud service (CleverCloud) 
 
 ## Mathematics and optimization
 I have a strong affinity for complexity analysis of different algorithms. 
