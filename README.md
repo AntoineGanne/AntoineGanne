@@ -25,6 +25,8 @@ My most recent experience are python APis using Flask (not public) to apply Mach
 Playroom is an ambitious school project aimed to make a framework of multiplayer web games in rooms (you only need the room code to join, like Jackbox Party packs).
 We made the front with Vue.js and the back with Node.js. 
 We managed to have a functionnal pictionnary!
+[back-end](https://github.com/Santa-Polytecha/playroom-server)
+[front-end](https://github.com/Santa-Polytecha/playroom-web)
 
 
 ## Data and Machine Learning
