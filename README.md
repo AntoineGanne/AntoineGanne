@@ -1,16 +1,10 @@
 ![me](https://i.imgur.com/8HsfCAT.png)
 
-_Let's make the world a better place for everyone._
-
-Freshly graduated from Polytech Lyon. I'm now a *software engineer!*
-
-Currently looking for a job. Do you think I would fit in your team? ✨
+Graduated from Polytech Lyon. I'm now a *software engineer!*
 
 Also, I'd love to help on an open-source project!
 
 Feel free to reach me on LinkedIn or here on Github.
-
-Pronouns: he/him
 
 ------------------
 # Projects I worked on
@@ -41,8 +35,6 @@ Here's an example of the reported UFOs' shapes 🛸
 ![figure shape of ufo](https://lh5.googleusercontent.com/ocDICWyszzFXEVc2M1meaIQElZR9o3tlNUAR4SM0wsZoDsTjSMSsF0oL7oWdN0ksrRx4SC0E-7ij-DCovGiLLdnEokxQS8y-6ZwNqTP9lsiIopA5e2wtkmEzR3f32AHTdcnF0hf4)
 
 Various experiences in Machine Learning with Scikit-Learn
-
-I highly recommend reading [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) by Cathy O'Neil!
 
 ## Unity
 Learned Unity for my internship in Tokyo where I worked on Sigverse, a framework for Human-Robot Interaction experiences in Virtual Reality.
